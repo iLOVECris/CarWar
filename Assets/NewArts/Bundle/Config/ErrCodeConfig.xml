@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Config>
+    <item id="0" tips="操作成功"/>
+    <item id="194" tips="玩家账户不存在"/>
+    <item id="195" tips="玩家账户参数有错误"/>
+    <item id="196" tips="修改头像失败"/>
+    <item id="197" tips="修改头像成功"/>
+    <item id="198" tips="修改名字成功"/>
+    <item id="199" tips="哎呀~修改名字失败"/>
+    <item id="200" tips="哎呀~操作数据库GG了"/>
+    <item id="201" tips="你已经被封禁了"/>
+    <item id="202" tips="你目前不是游客"/>
+    <item id="203" tips="升级账号失败"/>
+    <item id="204" tips="获取奖励失败"/>
+</Config>

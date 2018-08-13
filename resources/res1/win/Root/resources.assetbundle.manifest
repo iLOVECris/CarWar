@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3970634098
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e451ca473ed99a2c583661e22b08c37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/NewArts/Bundle/Resources/FaceIcon/ali.png
+- Assets/NewArts/Bundle/Resources/FaceIcon/jiansheng.png
+- Assets/NewArts/Bundle/Resources/FaceIcon/ezreal.png
+- Assets/NewArts/Bundle/Resources/FaceIcon/ruizi.png
+- Assets/NewArts/Bundle/Resources/FaceIcon/pansen.png
+- Assets/NewArts/Bundle/Resources/FaceIcon/xiaofa.png
+- Assets/NewArts/Bundle/Resources/FaceIcon/wuqi.png
+- Assets/NewArts/Bundle/Resources/FaceIcon/hanbing.png
+- Assets/NewArts/Bundle/Resources/FaceIcon/gailun.png
+Dependencies: []

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Config>
+    <item id="0" carname="31000" resname="CarAvt0" speed=""/>
+    <item id="1" carname="31001" resname="CarAvt1"/>
+    <item id="2" carname="31002" resname="CarAvt2"/>
+    <item id="3" carname="31003" resname="CarAvt3"/>
+    <item id="4" carname="31004" resname="CarAvt4"/>
+    <item id="5" carname="31005" resname="CarAvt5"/>
+</Config>

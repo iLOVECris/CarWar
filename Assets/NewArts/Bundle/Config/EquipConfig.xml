@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Config>
+    <item id="111" equipname="金币" equiptype ="1" resname="gold_02"/>
+    <item id="112" equipname="金币" equiptype ="1" resname="gold_01"/>
+    <item id="113" equipname="钻石" equiptype ="2" resname="gem_02"/>
+    <item id="114" equipname="草药" equiptype ="2" resname="herbal"/>
+    <item id="115" equipname="贝壳" equiptype ="3" resname="shell"/>
+    <item id="116" equipname="钥匙" equiptype ="4" resname="key"/>
+    <item id="117" equipname="宝箱" equiptype ="4" resname="Chest"/>
+</Config>

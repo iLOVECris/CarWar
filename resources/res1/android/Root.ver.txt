@@ -1,0 +1,3 @@
+ver:325|FileCount:2
+Root/Config.assetbundle|T/RHuO9CylH6b7KHvtjUD0m+WPE=@962
+Root/Prefabs.assetbundle|T/RHuO9CylH6b7KHvtjUD0m+WPE=@1080290

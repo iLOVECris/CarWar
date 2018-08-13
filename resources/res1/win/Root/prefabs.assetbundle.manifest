@@ -1,0 +1,103 @@
+ManifestFileVersion: 0
+CRC: 2912423580
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df45e4caf55ff34ae62ba93cce2b9e06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0dc096f2d796f5999210d796c066dbbf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fe9faf46217c1a419f116db4a3e2a86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01f96656d8b39094baf2bd8aa08916d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b6bd7e664c1da54aad32bfd2b8f85ba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/NewArts/Bundle/Prefabs/UIPanel/ChangePlayerNamePanel.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/MyChatItem.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/UserInfoPanel.prefab
+- Assets/NewArts/Bundle/Prefabs/GameObjs/CarAvt/CarAvt0.prefab
+- Assets/NewArts/Bundle/Prefabs/GameObjs/CarAvt/CarAvt5.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/EmojiItem.prefab
+- Assets/NewArts/Bundle/Prefabs/GameObjs/CarAvt/CarAvt1.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/ChatPanel.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/LoginBonusRewardPanel.prefab
+- Assets/NewArts/Bundle/Prefabs/GameObjs/CarAvt/CarAvt4.prefab
+- Assets/NewArts/Bundle/Prefabs/GameObjs/CarAvt/CarAvt2.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/OtherChatItem.prefab
+- Assets/NewArts/Bundle/Prefabs/GameObjs/CarAvt/CarAvt3.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/EmojiItemOther.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/PlayerReLoginPanel.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/EmojiItemSelf.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/MainLobbyPanel.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/FriendItem.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/MainUIPanel.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/PopItem.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/PlayerAccountUpgradePanel.prefab
+- Assets/NewArts/Bundle/Prefabs/UIPanel/LoginBonusPanel.prefab
+Dependencies:
+- D:/u3dproject/CarWar/resources/res1/win/Root/ui.assetbundle
+- D:/u3dproject/CarWar/resources/res1/win/Root/resources.assetbundle

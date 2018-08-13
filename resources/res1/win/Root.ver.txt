@@ -1,0 +1,5 @@
+ver:89|FileCount:4
+Root/config.assetbundle|DNBPMjGFo1kcOiWfQCZS/40sjRU=@1366
+Root/prefabs.assetbundle|/+qjj47dAWCRhkEKQU6t7hlOR5A=@1536365
+Root/resources.assetbundle|Lsem++LNq36zVUR26K0VXIEHh04=@78393
+Root/ui.assetbundle|+83N6K7JzRq9A36KReAcIEITMtg=@1445823

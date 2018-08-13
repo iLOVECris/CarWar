@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 1054899622
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cda0872b2b0bf6f3ef4289e3d1f83974
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/NewArts/Bundle/UI/emoji/emoji_31.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_4.png
+- Assets/NewArts/Bundle/UI/res_gold.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_8.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_11.png
+- Assets/NewArts/Bundle/UI/pin_x_3.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_27.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_5.png
+- Assets/NewArts/Bundle/UI/SK_SpeedUp_Icon.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_7.png
+- Assets/NewArts/Bundle/UI/in.png
+- Assets/NewArts/Bundle/UI/shezhi1.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_45.png
+- Assets/NewArts/Bundle/UI/barcode_back.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_21.png
+- Assets/NewArts/Bundle/UI/lit_4.png
+- Assets/NewArts/Bundle/UI/xjm_2.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_39.png
+- Assets/NewArts/Bundle/UI/share_qzone.png
+- Assets/NewArts/Bundle/UI/tianjia_1.png
+- Assets/NewArts/Bundle/UI/xuanze_2.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_33.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_35.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_43.png
+- Assets/NewArts/Bundle/UI/guest_login_press.png
+- Assets/NewArts/Bundle/UI/gold_02.PNG
+- Assets/NewArts/Bundle/UI/emoji/emoji_10.png
+- Assets/NewArts/Bundle/UI/Chest.png
+- Assets/NewArts/Bundle/UI/shzi_3.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_36.png
+- Assets/NewArts/Bundle/UI/shell.PNG
+- Assets/NewArts/Bundle/UI/emoji/emoji_9.png
+- Assets/NewArts/Bundle/UI/ltkd_9.png
+- Assets/NewArts/Bundle/UI/herbal.PNG
+- Assets/NewArts/Bundle/UI/out.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_34.png
+- Assets/NewArts/Bundle/UI/gem_02.PNG
+- Assets/NewArts/Bundle/UI/gold_01.PNG
+- Assets/NewArts/Bundle/UI/ui_arder_you.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_14.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_13.png
+- Assets/NewArts/Bundle/UI/ltkd_1.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_38.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_3.png
+- Assets/NewArts/Bundle/UI/SK_FireRing_Icon_Disable.png
+- Assets/NewArts/Bundle/UI/3010000.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_6.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_12.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_28.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_22.png
+- Assets/NewArts/Bundle/UI/xuanze_3.png
+- Assets/NewArts/Bundle/UI/avatar_mask.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_24.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_29.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_32.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_1.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_26.png
+- Assets/NewArts/Bundle/UI/ltk_2.png
+- Assets/NewArts/Bundle/UI/soushuo.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_2.png
+- Assets/NewArts/Bundle/UI/ui_arder_zuo.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_42.png
+- Assets/NewArts/Bundle/UI/SK_FireRing_Icon.png
+- Assets/NewArts/Bundle/UI/guest_login_normal.png
+- Assets/NewArts/Bundle/UI/circle_2.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_16.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_37.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_30.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_19.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_17.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_40.png
+- Assets/NewArts/Bundle/UI/key.PNG
+- Assets/NewArts/Bundle/UI/emoji/emoji_41.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_18.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_25.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_20.png
+- Assets/NewArts/Bundle/UI/ltk_1.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_15.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_44.png
+- Assets/NewArts/Bundle/UI/emoji/emoji_23.png
+Dependencies: []

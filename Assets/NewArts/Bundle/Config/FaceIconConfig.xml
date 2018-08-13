@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Config>
+    <item id="0" resname="hanbing"/>
+    <item id="1" resname="gailun"/>
+    <item id="2" resname="ruizi"/>
+    <item id="3" resname="xiaofa"/>
+    <item id="4" resname="jiansheng"/>
+    <item id="5" resname="wuqi"/>
+    <item id="6" resname="ali"/>
+    <item id="7" resname="pansen"/>
+    <item id="8" resname="ezreal"/>
+</Config>

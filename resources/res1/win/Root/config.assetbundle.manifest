@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4177884857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 508afb515afe5cd7d291fafa467b4193
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/NewArts/Bundle/Config/EquipConfig.xml
+- Assets/NewArts/Bundle/Config/FaceIconConfig.xml
+- Assets/NewArts/Bundle/Config/ErrCodeConfig.xml
+- Assets/NewArts/Bundle/Config/CarConfig.xml
+Dependencies: []
